@@ -1,6 +1,6 @@
 # Hi there, I'm Pranav Kumar 👋
 
-- 🌱 I’m currently honing my skills with **Suricata**, **Splunk**, and **Chronicle** for advanced threat detection and incident response.
+- 🌱 I’m currently honing my skills with **Nmap**, **Wireshark**, and **Metasploit** for advanced network scanning, packet analysis, and penetration testing.
 - 🔭 I’m working on some exciting cybersecurity and AI projects
 - 📫 Reach me at pranavkumar122244@gmail.com
 
