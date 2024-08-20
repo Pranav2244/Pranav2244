@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Pranav Kumar 👋
 
-<!--
-**Pranav2244/Pranav2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python** and **Cybersecurity**
+- 🔭 I’m working on some exciting cybersecurity and AI projects
+- 📫 Reach me at pranavkumar122244@gmail.com
 
-Here are some ideas to get you started:
+  ![Currently Coding](https://img.shields.io/badge/Coding-Python-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav2244&show_icons=true)
+
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Pranav2244&color=blue)
+
+![Profile Banner](https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif)
+
+> **"In the world of code, I find my way through the shadows."**
+
+![Hacker GIF](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
