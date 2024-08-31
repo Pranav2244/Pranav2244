@@ -1,4 +1,4 @@
-![hiiii](https://github.com/Pranav2244/Pranav2244/blob/main/gif2.gif)
+![Header bannner](https://github.com/Pranav2244/Pranav2244/blob/main/Header%20Banner.png)
 
 # Hi there, I'm Pranav Kumar 👋
 *"In the pursuit of secure solutions, the journey is as important as the destination."*  
